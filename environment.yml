@@ -1,0 +1,6 @@
+name: "sg-rain"
+prefix: "./condaenv"
+dependencies:
+- python=3.6
+- pip:
+  - pytest
